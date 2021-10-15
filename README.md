@@ -1,5 +1,4 @@
-#Portfolio
-Some examples of our projects
+# PORTFOLIO
 
 # [Project 1: Scraping Slogans](https://github.com/data-analytics-arg/Slogan_Scraper_NLP) 
 * Created a tool to extract some slogans related to Data Analytics and Big Data projects.
