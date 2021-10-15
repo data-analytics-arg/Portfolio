@@ -5,7 +5,7 @@
 * Basic NLP Applied. 
 * Created a Word Cloud to visualize the results
 
-![](https://github.com/data-analytics-arg/Portfolio/blob/main/Images/Word_Cloud_Slogans.png)
+![](/Images/Word_Cloud_Slogans.png)
 
 
 
