@@ -7,7 +7,7 @@ Some examples of our projects
 * Basic NLP Applied. 
 * Created a Word Cloud to visualize the results
 
-![](/images/positions_by_state.png)
+![](https://github.com/data-analytics-arg/Portfolio/blob/main/Images/Word_Cloud_Slogans.png)
 
 
 
