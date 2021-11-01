@@ -9,4 +9,11 @@
 
 
 
+# [Project 2: scraping newspaper articles](https://github.com/data-analytics-arg/NewsScraper) 
+* Created a tool to extract articles from Pagina12 using python.
+* Loaded-data into a Postgres database using a Python script.
+* Automation of processes based on Airflow
+
+
+![](/Images/project_2.jpeg)
 
