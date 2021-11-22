@@ -22,3 +22,12 @@
 * Created a tool to extract Hourly Weather Forecast for Caballito,Buenos Aires, Argentina, using python.
 
 ![](/Images/KETV_Hourly.jpg)
+
+
+# [Project 4: scraping weekly Weather Forecast](https://github.com/data-analytics-arg/weekly_weather_forecast/) 
+* Created a Script to extract weekly Weather Forecast for Buenos Aires, Argentina, using python.
+* Automated Web Scraping in Python using Schedule Library.
+* loaded-data into PostgeSQL
+
+![](/Images/AutomatableTasks.jpg)
+
